@@ -23,9 +23,13 @@ Consulte licitações com propostas abertas, contratações publicadas, itens e 
 
 ## Instalação
 
+Com o Python 3.10 ou superior instalado:
+
 ```bash
-pip install git+https://github.com/Max-Martins/pncp-consulta.git
+pip install https://github.com/Max-Martins/pncp-consulta/archive/refs/heads/main.zip
 ```
+
+Não precisa ter o Git instalado. Depois disso, o comando `pncp-consulta` fica disponível no terminal.
 
 Ou, sem instalar, dentro da pasta do projeto: `python -m pncp_consulta ...`
 
