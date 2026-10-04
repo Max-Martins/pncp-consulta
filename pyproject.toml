@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pncp-consulta"
+version = "0.1.0"
+description = "Cliente leve para a API pública do Portal Nacional de Contratações Públicas (PNCP)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Max L. Martins Marinho" }]
+keywords = ["pncp", "licitacoes", "compras-publicas", "lei-14133", "api"]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Max-Martins/pncp-consulta"
+
+[project.scripts]
+pncp-consulta = "pncp_consulta.cli:main"
+
+[tool.setuptools]
+packages = ["pncp_consulta"]
