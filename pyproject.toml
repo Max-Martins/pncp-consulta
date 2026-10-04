@@ -9,7 +9,7 @@ description = "Cliente leve para a API pública do Portal Nacional de Contrataç
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Max L. Martins Marinho" }]
+authors = [{ name = "Max Marinho" }]
 keywords = ["pncp", "licitacoes", "compras-publicas", "lei-14133", "api"]
 dependencies = []
 

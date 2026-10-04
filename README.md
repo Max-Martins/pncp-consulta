@@ -88,4 +88,4 @@ Projeto independente, sem vínculo com o governo federal. Os dados vêm da API p
 
 ---
 
-<sub>Feito por [Max L. Martins Marinho](https://www.linkedin.com/in/maxx-marinho/) · Licença MIT</sub>
+<sub>Feito por [Max Marinho](https://www.linkedin.com/in/maxx-marinho/) · Licença MIT</sub>
